@@ -128,7 +128,7 @@ void buildWeb(){
    website += "<style media=\"screen\">";
    website += "*{font-family: Caveat;font-size: 45px;box-sizing: border-box;}";
    website += ":link, :visited{color: #fe7701;text-decoration: none;}";
-   website += "body{background-image: url(img/bg.jpg);background-repeat: no-repeat;background-size: cover;}";
+   website += "body{background-image: url(\"http://www.kanahei.com/upload/2013/06/01_g_1024_768.jpg\");background-repeat: no-repeat;background-size: cover;}";
    website += "main{width: 700px;height: 250px;padding: 10px;margin: 40px auto;}";
    website += ".btn_div{width: 300px;margin: 20px auto;}";
    website += ".botton{display: inline;width: 110px;padding: 0px 30px;margin: 10px auto;background-color: rgba(255, 255, 255, 0.8);";
